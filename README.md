@@ -1,5 +1,5 @@
 # Projet Machine Learning – Prédiction & Classification sur le cancer du sein
-
+https://github.com/Mael-Bonnet/Projet_machine_learning/blob/main/README.md
 Ce projet a pour but de développer et d’évaluer des modèles de **machine learning** pour :
 
 - 🔬 **Prédire** l'expression d'une **protéine spécifique** (problème de régression),
@@ -64,7 +64,6 @@ L'entraînement de modèles de régression et de classification
 
 L'évaluation croisée et la génération de visualisations
 
-L'enregistrement des résultats dans le dossier results/
 
 ## 📊 Objectifs du projet
 ### 🎯 Régression – Prédiction du taux de protéine
