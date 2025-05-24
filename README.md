@@ -13,21 +13,18 @@ Les données sont issues de **Kaggle**, disponibles ici :
 ## 📁 Structure du projet
 
 ├── data/ # Contient les données brutes téléchargées
+│ └── preprocessor.joblib
+│ └── requirements.txt # Librairies nécessaires
 
-├── notebooks/ # Jupyter Notebooks pour l'exploration, modélisation et visualisation
-
-├── src/ # Scripts Python (prétraitement, modèles, évaluation)
-│ ├── preprocessing.py
-│ ├── models.py
-│ └── evaluation.py
-
-├── results/ # Graphiques, métriques, figures exportées
-
-├── requirements.txt # Librairies nécessaires
+├── notebooks/ # Scripts Python (prétraitement, modèles, évaluation)
+│ ├── 0_preprocessor.ipynb
+│ ├── 1_Classification.ipynb
+│ ├── 2_Regression.ipynb
+│ └── utils.py
 
 ├── README.md # Ce fichier
+├──Rapport_PMC.odt
 
-└── main.py # Script principal pour lancer le projet
 
 
 ## ⚙️ Installation & Lancement
